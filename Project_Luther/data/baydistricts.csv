@@ -1,0 +1,68 @@
+County,District,City,Zip,Plus4,C,State,MailZip,DOCType,StatusType,LastUpDate
+San Mateo,Belmont-Redwood Shores Elementary,Belmont,94002,2943,1,CA,94002-2943,Elementary School District,Active,6/23/2015
+San Mateo,Brisbane Elementary,Brisbane,94005,1342,1,CA,94005-1342,Elementary School District,Active,7/1/2016
+San Mateo,Burlingame Elementary,Burlingame,94010,4509,2,CA,94010-4509,Elementary School District,Active,8/6/2015
+San Mateo,Hillsborough City Elementary,Hillsborough,94010,6818,2,CA,94010-6818,Elementary School District,Active,7/19/2018
+San Mateo,Bayshore Elementary,Daly City,94014,1603,1,CA,94014-1603,Elementary School District,Active,6/17/2017
+San Mateo,Jefferson Elementary,Daly City,94015,3934,2,CA,94015-3934,Elementary School District,Active,1/13/2017
+San Mateo,Cabrillo Unified,Half Moon Bay,94019,1636,1,CA,94019-1636,Unified School District,Active,8/31/2015
+Santa Clara,Los Altos Elementary,Los Altos,94024,4030,1,CA,94024-4030,Elementary School District,Active,2/9/2017
+San Mateo,Las Lomitas Elementary,Menlo Park,94025,6706,1,CA,94025-6706,Elementary School District,Active,2/9/2017
+San Mateo,Menlo Park City Elementary,Atherton,94027,3102,1,CA,94027-3102,Elementary School District,Active,8/15/2017
+San Mateo,Portola Valley Elementary,Portola Valley,94028,8040,1,CA,94028-8040,Elementary School District,Active,9/7/2018
+San Mateo,Millbrae Elementary,Millbrae,94030,1600,1,CA,94030-1600,Elementary School District,Active,8/16/2016
+Santa Clara,Mountain View-Los Altos Union High,Mountain View,94040,4527,1,CA,94040-4527,High School District,Active,8/11/2015
+Santa Clara,Mountain View Whisman,Mountain View,94043,3133,1,CA,94043-3133,Elementary School District,Active,7/6/2015
+San Mateo,Pacifica,Pacifica,94044,3052,1,CA,94044-3052,Elementary School District,Active,7/27/2018
+San Mateo,La Honda-Pescadero Unified,Pescadero,94060,8844,1,CA,94060-8844,Unified School District,Active,9/5/2018
+San Mateo,Sequoia Union High,Redwood City,94062,1041,2,CA,94062-1041,High School District,Active,7/19/2017
+San Mateo,Woodside Elementary,Woodside,94062,2552,2,CA,94062-2552,Elementary School District,Active,9/24/2018
+San Mateo,Redwood City Elementary,Redwood City,94063,1727,1,CA,94063-1727,Elementary School District,Active,9/12/2018
+San Mateo,San Bruno Park Elementary,San Bruno,94066,4298,1,CA,94066-4298,Elementary School District,Active,9/7/2017
+San Mateo,San Carlos Elementary,San Carlos,94070,4129,1,CA,94070-4129,Elementary School District,Active,7/26/2018
+San Mateo,South San Francisco Unified,South San Francisco,94080,4423,1,CA,94080-4423,Unified School District,Active,8/12/2015
+Santa Clara,Cupertino Union,Sunnyvale,94087,3050,4,CA,95014-2091,Elementary School District,Active,6/22/2018
+Santa Clara,Sunnyvale,Sunnyvale,94088,3217,1,CA,94086-3217,Elementary School District,Active,1/13/2017
+San Francisco,San Francisco Unified,San Francisco,94102,5207,3,CA,94102-5207,Unified School District,Active,6/14/2017
+San Mateo,Ravenswood City Elementary,East Palo Alto,94303,1703,1,CA,94303-1703,Elementary School District,Active,5/18/2017
+Santa Clara,Palo Alto Unified,Palo Alto,94306,1005,1,CA,94306-1005,Unified School District,Active,8/8/2018
+San Mateo,San Mateo Union High,San Mateo,94401,1795,1,CA,94401-1795,High School District,Active,7/1/2015
+San Mateo,San Mateo-Foster City,Foster City,94404,1107,1,CA,94404-1107,Elementary School District,Active,7/25/2017
+Alameda,Alameda Unified,Alameda,94501,1037,1,CA,94501-1037,Unified School District,Active,9/17/2018
+Alameda,Mountain House Elementary,Byron,94514,1920,2,CA,94514-1920,Elementary School District,Active,1/25/2017
+Alameda,Fremont Unified,Fremont,94538,6337,3,CA,94537-5008,Unified School District,Active,7/7/2017
+Alameda,Hayward Unified,Hayward,94544,1301,2,CA,94540-5000,Unified School District,Active,8/6/2018
+Alameda,Castro Valley Unified,Castro Valley,94546,146,1,CA,94546-0146,Unified School District,Active,6/23/2015
+Alameda,Livermore Valley Joint Unified,Livermore,94551,1899,1,CA,94551-1899,Unified School District,Active,6/23/2015
+Alameda,Newark Unified,Newark,94560,385,1,CA,94560-0385,Unified School District,Active,7/1/2016
+Alameda,Pleasanton Unified,Pleasanton,94566,7498,1,CA,94566-7498,Unified School District,Active,8/2/2017
+Alameda,Dublin Unified,Dublin,94568,1500,1,CA,94568-1500,Unified School District,Active,9/4/2018
+Alameda,San Leandro Unified,San Leandro,94577,3767,1,CA,94577-3767,Unified School District,Active,3/13/2018
+Alameda,San Lorenzo Unified,San Lorenzo,94580,1641,1,CA,94580-1641,Unified School District,Active,6/18/2018
+Alameda,Sunol Glen Unified,Sunol,94586,9519,1,CA,94586-9519,Unified School District,Active,1/18/2017
+Alameda,New Haven Unified,Union City,94587,4402,1,CA,94587-4402,Unified School District,Active,7/24/2017
+Alameda,Oakland Unified,Oakland,94607,4099,1,CA,94607-4099,Unified School District,Active,8/14/2018
+Alameda,Emery Unified,Emeryville,94608,3035,1,CA,94608-3035,Unified School District,Active,8/15/2018
+Alameda,Piedmont City Unified,Piedmont,94611,4047,1,CA,94611-4047,Unified School District,Active,1/21/2016
+Alameda,Berkeley Unified,Berkeley,94702,1793,1,CA,94702-1793,Unified School District,Active,5/9/2017
+Alameda,Albany City Unified,Berkeley,94710,2226,1,CA,94706,Unified School District,Active,8/29/2018
+Santa Clara,Campbell Union,Campbell,95008,2086,1,CA,95008-2086,Elementary School District,Active,8/15/2017
+Santa Clara,Gilroy Unified,Gilroy,95020,7313,1,CA,95020-7313,Unified School District,Active,10/5/2017
+Santa Clara,Los Gatos-Saratoga Joint Union High,Los Gatos,95030,3308,1,CA,95030-3308,High School District,Active,8/14/2018
+Santa Clara,Los Gatos Union Elementary,Los Gatos,95032,4510,1,CA,95032-4510,Elementary School District,Active,8/16/2018
+Santa Clara,Loma Prieta Joint Union Elementary,Los Gatos,95033,4054,2,CA,95033-4054,Elementary School District,Active,8/27/2018
+Santa Clara,Milpitas Unified,Milpitas,95035,5707,1,CA,95035-5707,Unified School District,Active,7/20/2018
+Santa Clara,Morgan Hill Unified,Morgan Hill,95037,7110,1,CA,95037-7110,Unified School District,Active,4/26/2016
+Santa Clara,Santa Clara Unified,Santa Clara,95052,397,1,CA,95052-0397,Unified School District,Active,6/23/2015
+Santa Clara,Saratoga Union Elementary,Saratoga,95070,6020,1,CA,95070-6020,Elementary School District,Active,1/13/2017
+Santa Clara,Franklin-McKinley Elementary,San Jose,95112,2617,1,CA,95112-2617,Elementary School District,Active,8/12/2015
+Santa Clara,Oak Grove Elementary,San Jose,95119,1204,1,CA,95119-1204,Elementary School District,Active,6/23/2015
+Santa Clara,Union Elementary,San Jose,95124,5434,3,CA,95124-5434,Elementary School District,Active,7/27/2018
+Santa Clara,San Jose Unified,San Jose,95126,2736,3,CA,95126-2736,Unified School District,Active,8/17/2018
+Santa Clara,Alum Rock Union Elementary,San Jose,95127,2322,1,CA,95127-2322,Elementary School District,Active,9/13/2017
+Santa Clara,Luther Burbank,San Jose,95128,1931,1,CA,95128-1931,Elementary School District,Active,8/25/2016
+Santa Clara,Moreland,San Jose,95130,1709,1,CA,95130-1709,Elementary School District,Active,8/26/2015
+Santa Clara,Orchard Elementary,San Jose,95131,1602,2,CA,95131-1602,Elementary School District,Active,11/2/2017
+Santa Clara,Berryessa Union Elementary,San Jose,95132,2427,1,CA,95132-2427,Elementary School District,Active,10/4/2017
+Santa Clara,East Side Union High,San Jose,95133,1316,1,CA,95133-1316,High School District,Active,6/23/2015
+Santa Clara,Evergreen Elementary,San Jose,95148,3022,2,CA,95148-3022,Elementary School District,Active,2/9/2017
