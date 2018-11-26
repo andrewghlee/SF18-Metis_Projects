@@ -1,0 +1,74 @@
+1538778775015	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NVii6FoAGYIc"
+1538778776452	Marionette	INFO	Listening on port 42083
+1538778776529	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538778776577	Marionette	DEBUG	[2147483649] Frame script loaded
+1538778776579	Marionette	DEBUG	[2147483649] Frame script registered
+1538778776601	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538778780134	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538778783363	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.mlslistings.com/Search/Result/3645d18a-5ee0-4f4b-adc2-d7099c53040e/1?view=list
+1538778791963	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.mlslistings.com/Search/Result/3645d18a-5ee0-4f4b-adc2-d7099c53040e/1?view=list
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1538779335042	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.mlslistings.com/Search/Result/3645d18a-5ee0-4f4b-adc2-d7099c53040e/1?view=list
+1538779335100	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483965
+1538779335100	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483967
+1538779335100	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483969
+1538779335101	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483971
+1538779335105	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483935
+1538779335105	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483937
+1538779335106	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483939
+1538779335106	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483941
+1538779335812	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.mlslistings.com/Search/Result/3645d18a-5ee0-4f4b-adc2-d7099c53040e/1?view=list
+1538779335832	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.mlslistings.com/Search/Result/3645d18a-5ee0-4f4b-adc2-d7099c53040e/1?view=list
+1538779336434	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.mlslistings.com//property/be40841471/4772-kimberley-cmn-livermore-ca-94550/9111689
+1538779336465	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483898
+1538779336465	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483900
+1538779336466	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483904
+1538779336466	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483922
+1538779336466	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483948
+1538779336467	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483959
+1538779336467	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483920
+1538779336467	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147484030
+1538779336467	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483908
+1538779336468	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483957
+1538779336468	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483910
+1538779336468	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483926
+1538779336469	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147484002
+1538779336469	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147484015
+1538779336469	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483931
+1538779336469	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483924
+1538779336470	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483944
+1538779336470	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483945
+1538779336471	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483986
+1538779336471	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147484012
+1538779336471	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147484004
+1538779336472	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483987
+1538779336472	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483988
+1538779336472	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483989
+1538779336472	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483990
+1538779336472	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483951
+1538779336473	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483998
+1538779336473	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483982
+1538779336473	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483952
+1538779336474	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483996
+1538779336474	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483979
+1538779336474	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483953
+1538779336475	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483928
+1538779336475	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147484010
+1538779336475	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147484022
+1538779336475	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147484017
+1538779336475	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147484024
+1538779336475	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147484027
+1538779336476	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483906
+1538779336476	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483916
+1538779336476	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483984
+1538779336827	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147484040
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1538779337283	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147484034
+1538779337292	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.mlslistings.com//property/be40841471/4772-kimberley-cmn-livermore-ca-94550/9111689
+1538785456537	Marionette	DEBUG	[2147484175] Frame script loaded
+1538785456541	Marionette	DEBUG	[2147484175] Frame script registered
+1538785456571	Marionette	DEBUG	[4294967297] Frame script loaded
+1538785456571	Marionette	DEBUG	[4294967297] Frame script registered
+
+(/usr/lib/firefox/firefox:8366): dconf-WARNING **: 17:49:35.438: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
